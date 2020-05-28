@@ -3,7 +3,11 @@
 ### ICCV 2019
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Onion-Peel_Networks_for_Deep_Video_Completion_ICCV_2019_paper.html)
 
-[![Onion-Peel Networks for Deep Video Completion](https://img.youtube.com/vi/bxerAkHAttE/0.jpg)](https://www.youtube.com/watch?v=bxerAkHAttE "Onion-Peel Networks for Deep Video Completion")
+### To DO
+- [x] Push weight to Gdrive
+- [ ] Add youtuve video on my own dataset
+- [ ] Add mask generation
+- [ ] ROS integeration
 
 
 ### - This repository contains a demo software for OPN with following applications
@@ -21,7 +25,15 @@ pip install matplotlib==3.0.3
 pip install tqdm==4.46.0
 pip install torch==1.1.0 torchvision==0.3.0
 pip install scipy==1.4.1
-```
+```- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 #### Download weights
 ##### Place it the same folder with demo scripts
