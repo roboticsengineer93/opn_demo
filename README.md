@@ -25,15 +25,7 @@ pip install matplotlib==3.0.3
 pip install tqdm==4.46.0
 pip install torch==1.1.0 torchvision==0.3.0
 pip install scipy==1.4.1
-```- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+```
 
 #### Download weights
 ##### Place it the same folder with demo scripts
